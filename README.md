@@ -1,5 +1,5 @@
 # Econometrics-Analysis
-
+#### These analysis were done witht the program "STATA"
 
 ## Ecometrics Based Projects
 
